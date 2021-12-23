@@ -1,0 +1,10 @@
+{
+    "name": "quete/quete3",
+    "autoload": {
+        "psr-4": {
+            "Quete\\Quete3\\": "src/",
+            "App\\": "src/"   
+        }
+    },
+    "require": {}
+}
